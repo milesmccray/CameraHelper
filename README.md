@@ -83,6 +83,6 @@ If the player leaves camera radius, even if the camera is on a path, the camera 
 ![Camera Break 1](Resources/Videos/Camera_Break1.webp)
 
 **Camera break by resizing the window**
-![Camera Break 2](../../Resources/Videos/Camera_Break2.webp)
+![Camera Break 2](/Resources/Videos/Camera_Break2.webp)
 
 
