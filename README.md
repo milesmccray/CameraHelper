@@ -17,7 +17,7 @@ When a camera node is selected, you can adjust the screen height (and by extensi
 
 You can also adjust the node size in the `node area` box. This node area only applies to the camera types `connect` and `force`.
 
-#### <ins>Camera Node Types</ins>####
+#### Camera Node Types ####
 Camera nodes can have different types that change the behaviors of the camera. These are independent of each other and a full camera path can have multiple different camera types on it.  By default camera types are `normal` type. To interact with any of the features of the camera node, make sure you select the camera node first.
 ##### Normal Node #####
 Normal camera nodes are the default camera node. Normal camera nodes are mainly used to help dictate the camera path for the player, they help to center the camera's focus on certain gameplay areas. They don't behave in any special way based on the player position (other than [[#<u>Camera Breaks</u>|Camera Breaks]]).  When moving in-between normal camera nodes, the camera will show slightly ahead of the player and will move back to center when the player stops. 
