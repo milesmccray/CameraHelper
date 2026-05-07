@@ -1,10 +1,6 @@
 
 # Camera Guide #
 
-## Table of Contents ##
-Todo
- 
-
 ## Camera Basics ##
 The Camera menu is where you can control how the camera functions during gameplay in Dustforce. To get started first click on the Camera menu then left click somewhere in your level. This is called a "camera node" to interact with the camera node, click on it while you have the camera menu selected. You can delete camera nodes by using right click. 
 
