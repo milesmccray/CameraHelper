@@ -51,7 +51,7 @@ When messing with the camera it will quickly become apparent that the camera doe
 When a camera node is selected, scroll `mousewheel` to create node lenience. Node lenience allows the camera to move off the path to the desired distance. This can be helpful to allow the player a bit more control of how they approach a level. Once the lenience is created, by clicking on the points, the lenience can be moved around.
 
 ![Camera Lenience](Resources/Images/Camera_Lenience.png)
-#### <u>One Way Paths</u>####
+#### <u>One Way Paths</u> ####
 One way paths are a unique feature that allows camera paths that act in one direction. This can be useful for helping to fix some unique camera situations. However, these should be used sparingly as its typically in good taste to allow the player to explore the level how they want. You can circumvent this by creating a force node just outside the one way camera node, so if the player goes far enough way they remain on the camera path. useful for creating situations where the player should go one direction but shouldn't go back.
 
 You can create a one way camera nodes with `ctrl + rightclick` near the center of the camera path on the correctly selected side. 
@@ -69,7 +69,7 @@ Aspect Ratios:
 - Smallest - 4:3
 - Middle - 16:10
 - Largest - 16:9
-- 
+
 #### <u>No Camera</u> ####
 The default camera or "No Camera" is a state where the player is <u>not</u> connected to any camera path and will use the sizing of the last attached camera node. If you never place a camera in your level this is the state your player will be in. The default camera height is 1080.
 #### <u>Camera Breaks</u> ####
